@@ -1,0 +1,5 @@
+This is the content of MyFile1.txt that I have created.
+
+In this text file I'll write a little story about once upon a time there was a lion and a cat that were looking at each other through a mirror, and the cat was saying how amazing and majestic it was while the lion was saying how small and miniscule it is. In the end, they then realised that there is no mirror in between them and they were actually just looking at themselves. 
+
+The end.
