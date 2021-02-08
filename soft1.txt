@@ -1,0 +1,5 @@
+Is this file for the keeps?
+
+As it turns out, doing a soft reset on a branch will result in the last committed files being put back in the working area of the repository. 
+
+(update): Correction, soft reset doesn't necessarily put the files in the working area, rather, it puts the selected files in the staging area once again. Where they can be re-edited and then committed again. 
