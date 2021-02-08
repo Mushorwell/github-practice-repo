@@ -1,0 +1,11 @@
+Is this second file also up for the keeps?
+
+So to soft reset a file you have to use this command: 
+
+"git reset --soft $filename"
+
+Try it when you get the chance if you are not sure. Otherwise if you want to soft reset all the files in the current branch, then now you have to use this command: 
+
+"git reset --soft HEAD^"
+
+You're welcome.
