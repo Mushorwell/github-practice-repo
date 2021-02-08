@@ -1,0 +1,9 @@
+This is a new file that has been added to the branch_a of the repository. 
+
+This file will not have any useful or interesting content besides this fact.
+
+(update): This file has now been staged and is going to be submitted to this new branch. 
+
+By the way, did you know that if you accidentally delete a folder that is also a working directory for git, you can never retrieve those files ever, unless they have been sent to the recycle bin or you have pushed to the remote repository. 
+
+Well, now you know. Seems like this file will have some useful information after all. Maybe not a story, but something worth noting. 
