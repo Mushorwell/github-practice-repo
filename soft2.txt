@@ -9,7 +9,10 @@ Try it when you get the chance if you are not sure. Otherwise if you want to sof
 "git reset --soft HEAD^"
 
 You're welcome.
+<<<<<<< HEAD
 
 (correction): Cannot git reset a file directly using the --soft, --hard or --mixed keywords. Rather reset the file directly with the command in this format. 
 
 "git reset -- $filename"
+=======
+>>>>>>> 07245bb5a9f94f62ea9a0366212c2065af78e821
